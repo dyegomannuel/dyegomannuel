@@ -15,7 +15,7 @@ Estou sempre em busca de novos desafios e aprendizados, então, se você tem alg
 
 <h2 align="left">📊 Linguagens nos commits</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dg2z&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyegomannuel&layout=compact)
 
 ---
 
