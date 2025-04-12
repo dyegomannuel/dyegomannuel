@@ -15,7 +15,10 @@ Estou sempre em busca de novos desafios e aprendizados, então, se você tem alg
 
 <h2 align="left">📊 Linguagens nos commits</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyegomannuel&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyegomannuel&layout=compact&hide_border=true&theme=dark"
+    alt = "Git status" 
+    title ="As linguagens que eu mais uso"
+    style = "float: left; margin-right: 0px;" />
 
 ---
 
