@@ -30,8 +30,10 @@ Estou sempre em busca de novos desafios e aprendizados, então, se você tem alg
       <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" height="40" hspace="8" alt="instagram logo" /> </a>
     <a href="https://www.reddit.com/user/dg2xz/" target="_blank">
       <img src="https://github.com/user-attachments/assets/61d9f33c-52dc-4e61-8d48-9c1ea6331de9" height="40" hspace="8" alt="reddit logo" /> </a>
-     <a href="https://discord.gg/u23vKxvVGU" target="_blank">
+    <a href="https://discord.gg/u23vKxvVGU" target="_blank">
       <img src="https://github.com/user-attachments/assets/8f058ab9-9f48-438c-95f4-3d77e757e7a6" height="40" hspace="8" alt="discord logo" /> </a>
+    <a href="https://open.spotify.com/user/31x4k6iisppfodllshh5m32hquuy?si=40a2af00f8814472" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" height="40" hspace="8" alt="spotify logo" /> </a>
   </div>
   <div>
     <img src="https://media1.tenor.com/m/2QP5twD2d28AAAAd/spring-forward.gif" height="200" alt="Coding GIF" />
