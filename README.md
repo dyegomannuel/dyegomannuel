@@ -11,6 +11,7 @@ Estou sempre em busca de novos desafios e aprendizados, então, se você tem alg
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" title="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML logo" title="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" title="Figma" />
 </div>
 
 <h2 align="left">📊 Linguagens nos commits</h2>
