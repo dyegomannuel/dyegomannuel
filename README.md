@@ -37,20 +37,6 @@ Estou sempre em busca de novos desafios e aprendizados, então, se você tem alg
           </a>
         </td>
         <td align="center" width="80">
-          <a href="SEU_LINK_DO_BEHANCE_AQUI" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="Behance logo" />
-            <br />
-            <strong>Behance</strong>
-          </a>
-        </td>
-        <td align="center" width="80">
-          <a href="SEU_LINK_DO_SEU_SITE_AQUI" target="_blank">
-            <img src="https://i.imgur.com/7a4g9b5.png" height="40" alt="Site/Portfolio logo" />
-            <br />
-            <strong>Site</strong>
-          </a>
-        </td>
-        <td align="center" width="80">
           <a href="https://instagram.com/dyegomannuel" target="_blank">
             <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" height="40" alt="Instagram logo" />
             <br />
@@ -58,7 +44,7 @@ Estou sempre em busca de novos desafios e aprendizados, então, se você tem alg
           </a>
         </td>
         <td align="center" width="80">
-          <a href="SEU_LINK_DO_SPOTIFY_AQUI" target="_blank">
+          <a href="https://open.spotify.com/user/31x4k6iisppfodllshh5m32hquuy?si=e7aca58796ad454e" target="_blank">
             <img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" height="40" alt="Spotify logo" />
             <br />
             <strong>Spotify</strong>
