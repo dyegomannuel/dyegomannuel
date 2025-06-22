@@ -20,7 +20,7 @@ Estou sempre em busca de novos desafios e aprendizados, então, se você tem alg
 
 ## 🚀 Projetos
 <a href="https://github.com/dyegomannuel/vigia-web">
-  <img src="https://github.com/user-attachments/assets/37e3d7f6-074f-4d89-9bfc-66cac4ab67f6" alt="Banner do Projeto Vigia Web" width="150" style="border: 1px solid #444; border-radius: 4px;">
+  <img src="https://github.com/user-attachments/assets/37e3d7f6-074f-4d89-9bfc-66cac4ab67f6" alt="Banner do Projeto Vigia Web" width="150">
 </a>
 
 ---
