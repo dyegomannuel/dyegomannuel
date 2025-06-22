@@ -50,6 +50,13 @@ Estou sempre em busca de novos desafios e aprendizados, então, se você tem alg
             <strong>Spotify</strong>
           </a>
         </td>
+        <td align="center" width="80">
+          <a href="https://discord.gg/bnsqDDRKY6" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" height="40" alt="Discord logo" />
+            <br />
+            <strong>Servidor</strong>
+          </a>
+        </td>
       </tr>
     </table>
   </div>
