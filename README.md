@@ -19,7 +19,7 @@ Estou sempre em busca de novos desafios e aprendizados, então, se você tem alg
     style = "float: left; margin-right: 0px;" />
 
 ## 🚀 Projetos
-[![Banner do Projeto Vigia Web](https://via.placeholder.com/800x300.png?text=Clique+aqui+para+ver+o+Projeto+Vigia)](https://github.com/dyegomannuel/vigia-web)
+[![Banner do Projeto Vigia Web](<img width="134" alt="Frame 14" src="https://github.com/user-attachments/assets/37e3d7f6-074f-4d89-9bfc-66cac4ab67f6" />)](https://github.com/dyegomannuel/vigia-web)
 
 ---
 <div style="display: flex; align-items: center; justify-content: space-between;">
