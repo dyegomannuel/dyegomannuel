@@ -13,6 +13,7 @@ Estou sempre em busca de novos desafios e aprendizados, então, se você tem alg
 </div>
 
 <h2 align="left">📊 Linguagens nos commits</h2>
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=dyegomannuel&show_icons=true&hide_border=true&theme=dark" 
     alt = "Git status" 
     title="Meu status do github"
@@ -21,7 +22,7 @@ Estou sempre em busca de novos desafios e aprendizados, então, se você tem alg
     alt = "Git status" 
     title ="As linguagens que eu mais uso"
     style = "float: left; margin-right: 0px;" />
-
+</div>
 ## 🚀 Projetos
 <a href="https://github.com/dyegomannuel/vigia-web">
   <img src="https://github.com/user-attachments/assets/37e3d7f6-074f-4d89-9bfc-66cac4ab67f6" alt="Banner do Projeto Vigia Web" width="150">
