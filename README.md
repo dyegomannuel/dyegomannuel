@@ -19,9 +19,9 @@ Estou sempre em busca de novos desafios e aprendizados, então, se você tem alg
     style = "float: left; margin-right: 0px;" />
 
 ## 🚀 Projetos
-<a href="https://github.com/dyegomannuel/vigia-web">
-  <img src="https://github.com/user-attachments/assets/37e3d7f6-074f-4d89-9bfc-66cac4ab67f6" alt="Banner do Projeto Vigia Web" width="134">
-</a>
+&lt;a href="https://github.com/dyegomannuel/vigia-web">
+&lt;img src="https://github.com/user-attachments/assets/37e3d7f6-074f-4d89-9bfc-66cac4ab67f6" alt="Banner do Projeto Vigia Web" width="200">
+&lt;/a>
 
 ---
 <div style="display: flex; align-items: center; justify-content: space-between;">
