@@ -27,14 +27,45 @@ Estou sempre em busca de novos desafios e aprendizados, então, se você tem alg
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
     <h2>🌐 Me encontre online</h2>
-    <a href="https://instagram.com/dyegomannuel" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" height="40" hspace="8" alt="instagram logo" /> </a>
-    <a href="https://www.reddit.com/user/dg2xz/" target="_blank">
-      <img src="https://github.com/user-attachments/assets/61d9f33c-52dc-4e61-8d48-9c1ea6331de9" height="40" hspace="8" alt="reddit logo" /> </a>
-    <a href="https://discord.gg/u23vKxvVGU" target="_blank">
-      <img src="https://github.com/user-attachments/assets/8f058ab9-9f48-438c-95f4-3d77e757e7a6" height="40" hspace="8" alt="discord logo" /> </a>
-    <a href="https://open.spotify.com/user/31x4k6iisppfodllshh5m32hquuy?si=fbeadc1fe1794a9b" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" height="40" hspace="8" alt="spotify logo" /> </a>
+    <table border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td align="center" width="80">
+          <a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" />
+            <br />
+            <strong>LinkedIn</strong>
+          </a>
+        </td>
+        <td align="center" width="80">
+          <a href="SEU_LINK_DO_BEHANCE_AQUI" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="Behance logo" />
+            <br />
+            <strong>Behance</strong>
+          </a>
+        </td>
+        <td align="center" width="80">
+          <a href="SEU_LINK_DO_SEU_SITE_AQUI" target="_blank">
+            <img src="https://i.imgur.com/7a4g9b5.png" height="40" alt="Site/Portfolio logo" />
+            <br />
+            <strong>Site</strong>
+          </a>
+        </td>
+        <td align="center" width="80">
+          <a href="https://instagram.com/dyegomannuel" target="_blank">
+            <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" height="40" alt="Instagram logo" />
+            <br />
+            <strong>Instagram</strong>
+          </a>
+        </td>
+        <td align="center" width="80">
+          <a href="SEU_LINK_DO_SPOTIFY_AQUI" target="_blank">
+            <img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" height="40" alt="Spotify logo" />
+            <br />
+            <strong>Spotify</strong>
+          </a>
+        </td>
+      </tr>
+    </table>
   </div>
   <div>
     <img src="https://media1.tenor.com/m/2QP5twD2d28AAAAd/spring-forward.gif" height="200" alt="Coding GIF" />
