@@ -52,7 +52,7 @@ Estou sempre em busca de novos desafios e aprendizados, então, se você tem alg
         </td>
         <td align="center" width="80">
           <a href="https://discord.gg/bnsqDDRKY6" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" height="40" alt="Discord logo" />
+            <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" height="40" alt="Discord logo" />
             <br />
             <strong>Servidor</strong>
           </a>
