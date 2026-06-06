@@ -2,14 +2,18 @@
 ## Sobre mim
 Meu nome é **Dyego Melo** e sou estudante do **Ensino Médio**. Comecei a estudar programação no segundo semestre de 2024 e, desde então, venho me apaixonando cada vez mais por essa área incrível. Minha base está bem consolidada na linguagem **C** e, atualmente, estou me aprofundando em **FRAMEWORKS/API**. 🚀
 Estou sempre em busca de novos desafios e aprendizados, então, se você tem algum projeto interessante ou uma ideia que gostaria de compartilhar, fique à vontade para me chamar! 😄
-## 💻 Linguagens e Tecnologias
+## Linguagens e Tecnologias 💻
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" title="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML logo" title="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS logo" title="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" title="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" title="Figma" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="Supabase logo" title="Supabase" />
+  <img src="https://cdn.simpleicons.org/render/46E3B7" height="40" alt="Render logo" title="Render" />
 </div>
 
 <h2 align="left">📊 Linguagens nos commits</h2>
