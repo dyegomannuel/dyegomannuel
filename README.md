@@ -18,11 +18,13 @@ Estou sempre em busca de novos desafios e aprendizados, então, se você tem alg
 
 <h2 align="left">🚀 Projetos</h2>
 <a href="https://github.com/dyegomannuel/AquiTemShabes">
-  <img src="https://media.licdn.com/dms/image/v2/D4E22AQFF5iq1UPrRpA/feedshare-shrink_1280/B4EaA71LB5GoAM-/0/1787710190009?e=1792022400&v=beta&t=SdPAR3bCr6BK8Ws2zVDwZXXtCVhhDl9NJq19orA9fmQ" alt="Banner do Projeto AquiTemShabes" width="150">
+  <img src="C:\Users\dyego\OneDrive\Imagens\AquiTemShabes-images\logo.png<img width="1188" height="1188" alt="logo" src="https://github.com/user-attachments/assets/f8540f24-220d-49e2-bbe9-977b3e213d7a" />
+" alt="Banner do Projeto AquiTemShabes" width="150">
 </a>
 <a href="https://github.com/dyegomannuel/vigia-web">
   <img src="https://github.com/user-attachments/assets/37e3d7f6-074f-4d89-9bfc-66cac4ab67f6" alt="Banner do Projeto Vigia Web" width="150">
 </a>
+![Uploading logo.png…]()
 
 ---
 <div style="display: flex; align-items: center; justify-content: space-between;">
