@@ -19,7 +19,7 @@ Estou sempre em busca de novos desafios e aprendizados, então, se você tem alg
 <h2 align="left">🚀 Projetos</h2>
 
 <div align="left">
-  <a href="https://github.com/dyegomannuel/AquiTemShabes"><img src="https://github.com/user-attachments/assets/e83955b8-9daa-43f9-895f-544406642626" alt="Banner do Projeto AquiTemShabes" height="1000" style="vertical-align: middle;"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dyegomannuel/vigia-web"><img src="https://github.com/user-attachments/assets/37e3d7f6-074f-4d89-9bfc-66cac4ab67f6" alt="Banner do Projeto Vigia Web" height="70" style="vertical-align: middle;"></a>
+  <a href="https://github.com/dyegomannuel/AquiTemShabes"><img src="https://github.com/user-attachments/assets/e83955b8-9daa-43f9-895f-544406642626" alt="Banner do Projeto AquiTemShabes" height="100" style="vertical-align: middle;"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dyegomannuel/vigia-web"><img src="https://github.com/user-attachments/assets/37e3d7f6-074f-4d89-9bfc-66cac4ab67f6" alt="Banner do Projeto Vigia Web" height="70" style="vertical-align: middle;"></a>
 </div>
 
 ---
