@@ -1,7 +1,10 @@
 # Olá, eu sou o Dyego Melo 👋
+
 ## Sobre mim
 Meu nome é **Dyego Melo** e sou estudante do **Ensino Médio**. Comecei a estudar programação no segundo semestre de 2024 e, desde então, venho me apaixonando cada vez mais por essa área incrível. Minha base está bem consolidada na linguagem **C** e, atualmente, estou me aprofundando em **FRAMEWORKS/API**. 🚀
+
 Estou sempre em busca de novos desafios e aprendizados, então, se você tem algum projeto interessante ou uma ideia que gostaria de compartilhar, fique à vontade para me chamar! 😄
+
 ## Linguagens e Tecnologias 💻
 
 <div align="left">
@@ -16,6 +19,12 @@ Estou sempre em busca de novos desafios e aprendizados, então, se você tem alg
   <img src="https://cdn.simpleicons.org/render/46E3B7" height="40" alt="Render logo" title="Render" />
 </div>
 
+<br />
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyegomannuel&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
+</div>
+
 <h2 align="left">🚀 Projetos</h2>
 
 <div align="left">
@@ -23,6 +32,7 @@ Estou sempre em busca de novos desafios e aprendizados, então, se você tem alg
 </div>
 
 ---
+
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
     <h2>🌐 Me encontre online</h2>
